@@ -1,0 +1,25 @@
+{
+  "name": "cli-translate-term",
+  "version": "1.0.0",
+  "description": "A simple CLI to translate to a language in the terminal.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Odebisi Solomon",
+  "license": "ISC",
+  "keywords": [],
+  "bin": {
+    "tran": "./bin/index.js"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.1",
+    "cli-table3": "^0.6.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "ora": "^5.4.1",
+    "yargs": "^16.1.1"
+  }
+}
