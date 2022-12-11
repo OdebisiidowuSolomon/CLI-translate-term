@@ -30,7 +30,7 @@ Options:
 
 ```
 
-> :warning: **You can also use the ISO-639-1 code of the language instead of writing the full language name**
+> :warning: **You can also use the [ISO-639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code of the language instead of writing the full language name**
 
 <br>
 
