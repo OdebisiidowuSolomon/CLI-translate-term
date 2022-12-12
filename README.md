@@ -11,7 +11,8 @@
 <br>
 
 <p align="center">
-<img src="images/demo2.gif" alt="demonstration" height="500" width="800" >
+<!-- <img src="./images/demo.gif" alt="demonstration" height="500" width="800" > -->
+<img src="https://raw.githubusercontent.com/OdebisiidowuSolomon/CLI-translate-term/main/images/demo2.gif" alt="demonstration" height="500" width="800" >
 </p>
 
 

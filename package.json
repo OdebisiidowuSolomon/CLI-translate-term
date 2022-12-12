@@ -1,14 +1,14 @@
 {
-  "name": "cli-translate-term",
-  "version": "1.0.0",
-  "description": "A simple CLI to translate to a language in the terminal.",
+  "name": "cli-translate-terms",
+  "version": "0.0.7",
+  "description": "A CLI to translate to a specific language in the terminal.",
   "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Odebisi Solomon",
   "license": "ISC",
-  "keywords": [],
+  "keywords": ["CLi","Translate"],
   "bin": {
     "tran": "./bin/index.js"
   },

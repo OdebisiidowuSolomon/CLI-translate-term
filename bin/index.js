@@ -10,7 +10,6 @@ const usage = chalk.keyword("violet")(
 );
 
 const yargs = require("yargs");
-const { getSpecificLang } = require("./utils.js");
 
 const options = yargs
   .usage(usage)
@@ -42,7 +41,6 @@ if (yargs.argv._[0] == null) {
 
 if (yargs.argv._[0]) {
   let language = yargs.argv._[0].toLowerCase(); // stores the language.
-//   console.log(yargs.argv);
 
   let sentence = "";
 
