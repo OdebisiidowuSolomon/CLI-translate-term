@@ -138,6 +138,8 @@ languages.set("italian", "it");
 languages.set("japanese", "ja");
 languages.set("javanese", "jv");
 languages.set("kannada", "kn");
+languages.set("kanuri", "kr");
+languages.set("Kashmiri", "ks");
 languages.set("kazakh", "kk");
 languages.set("khmer", "km");
 languages.set("kinyarwanda", "rw");
